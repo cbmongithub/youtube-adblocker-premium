@@ -1,0 +1,6 @@
+{
+  "extends": "eslint:recommended",
+  "rules": {
+    "eslint no-sequences": 0
+  }
+}

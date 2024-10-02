@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "name": "YouTube AdBlocker Premium",
+  "version": "0.1.0",
+  "description": "A lightweight, optimized client script to block all types of YouTube ads, ensuring a premium user experience.",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["webRequest", "webRequestBlocking", "*://*.youtube.com/*"]
+}
