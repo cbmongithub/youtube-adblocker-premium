@@ -6,13 +6,13 @@ Welcome to my **youtube-adblocker-premium** project! This extension will eventua
 
 ## Roadmap
 
-[⎷] Lightweight, around ~0.6KB compressed
-[⎷] Easy to install and use
-[⎷] Open-source and free
-[⎷] No tracking or data collection
-[X] Blocks All YouTube Ads
-[X] Zero dependencies (Script only)
-[X] Create a Chrome extension from the bundle with UI, without using a userscript manager)
+- [x] Lightweight, around ~0.6KB compressed
+- [x] Easy to install and use
+- [x] Open-source and free
+- [x] No tracking or data collection
+- [ ] Blocks All YouTube Ads
+- [ ] Zero dependencies (Script only)
+- [ ] Create a Chrome extension from the bundle with UI, without using a userscript manager
 
 ## Usage
 
@@ -43,6 +43,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact me at [email](mailto:inquiries@christianbmartinez.com?subject=[GitHub]%20youtube-adblocker-premium%20inquiry).
+For any questions or suggestions, please open an issue or contact me via [email](mailto:inquiries@christianbmartinez.com?subject=[GitHub]%20youtube-adblocker-premium%20inquiry).
 
 Thank you for checking out **youtube-adblocker-premium**!
