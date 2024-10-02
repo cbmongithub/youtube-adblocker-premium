@@ -4,7 +4,7 @@
   "description": "A lightweight, optimized client script to block all types of YouTube ads, ensuring a premium user experience.",
   "type": "module",
   "main": "dist",
-  "author": "𝕔𝕓𝕞 - (https://www.christianbmartinez.com)",
+  "author": "Chritian B. Martinez",
   "scripts": {
     "lint": "eslint ./src/index.js",
     "minify": "terser src/index.js -o dist/index.min.js -c -m --compress --mangle --toplevel --ecma 2015",
