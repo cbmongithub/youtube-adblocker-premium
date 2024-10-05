@@ -3,7 +3,7 @@
 ## Update
 It's been only 4 days since my first commit, and I was really excited to build this. I had so many ideas integrating AI, UI, and the like. However, today I have decided to abandon this project. 
 
-As you can see in uBlocks [Wiki](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) (uBlock is a big player in this space), Chrome is migrating to v3 application manifests. What that means for privacy extensions like these is basically forfeiture. Unless of course you could provide a hacky workaround, ship toned down features, etc, you're better off switching to a different browser at that point. 
+As you can see in uBlocks [Wiki](https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22) (uBlock is a big player in this space), Chrome is migrating to v3 application manifests. What that means for privacy extensions like these is basically forfeiture. Unless of course you could provide a hacky workaround, ship toned down features, etc, you're better off switching to a different browser at that point. 
 
 Suffice to say, that isn't something i'm particularly excited or interested about... So it's on to the next.
 
